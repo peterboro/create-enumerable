@@ -1,62 +1,96 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+## Enumerable
 
-# Project Name
+> This is our simple ruby enumerable
 
-> Description the project.
+
+![](https://img.shields.io/badge/Microverse-blueviolet).
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
+- Github
 
-## Live Demo (if available)
+## Live Demo 
 
-[Live Demo Link](https://livedemo.com)
-
+- N/A
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**To get a local copy up and running follow these simple example steps.**
+
+# Prerequisites
+
+- Github flow knowledge. -Intermediate Ruby. -Installation of linter files. -Installation of ruby
+
+# Setup 
+- To get a local copy follow these simple steps:
+
+- Clone Your Github Repository Follow these steps to clone your Clone Your Github Repository Follow these steps to clone my Github repo on Windows:
+
+   - Open Git Bash ;
+
+   - If Git is not already installed, it is super simple. Just go to the Git Download Folder and follow the instructions.
+
+   - Go to the current directory where you want the cloned directory to be added;
+
+   - To do this, input cd and add your folder location. You can add the folder location by dragging the folder to Git bash.
+    $ cd '/c/Users/Documents/My Git Project'
+
+    - Go to the page of the repository that you want to clone.
+
+    - Click on “Clone or download” and copy the URL.
+
+    - Use the git clone command along with the copied URL from earlier;
+
+    - $ git clone https://github.com/peterboro/create-enumerable
+
+   - Press Enter;
+
+# Tests and Configuration
+
+To track linter errors locally follow these steps:
+
+Download all the dependencies run:
+
+npm install
+
+**Track RUBY linter errors run:**
 
 
-To get a local copy up and running follow these simple example steps.
+# Usage
+- This can be used to translate morse code to english
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+# Install
+- Set up Github Actions
+- Set up linter > Rubocop
+- Set up ruby
 
 ## Authors
 
-👤 **Author1**
+👤 **Tracy Musongole**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/TracyMuso)
+- Twitter: [@twitterhandle](https://twitter.com/tracy_muso)
+- LinkedIn: [@LinkedIn](https://linkedin.com/in/tracy-muso)
 
-👤 **Author2**
+👤 **Peter Njuguna**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/peterboro)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/peter-boro-njuguna/)
+
+👤 **Md Masuduzzaman**
+
+- [Github](https://github.com/Masuduzzaman811)
+- [LinkedIn](https://www.linkedin.com/in/masuduzzaman811/)
+- [Twitter](https://twitter.com/twitterhandle)
+
 
 ## 🤝 Contributing
-
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+
+Feel free to check the [issues page](github.com/peterboro/create-enumerable/issues).
 
 ## Show your support
 
@@ -71,5 +105,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
