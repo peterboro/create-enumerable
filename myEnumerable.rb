@@ -20,3 +20,4 @@ module MyEnumerable
     end
     result
   end
+end
