@@ -1,13 +1,13 @@
 module MyEnumerable
   def all?
-    for i in self
+    each do |i|
       return false unless yield(i)
     end
     true
   end
 
   def any?
-    for i in self
+    each do |i|
       return true if yield(i)
     end
     false
@@ -15,7 +15,7 @@ module MyEnumerable
 
   def filter
     result = []
-    for i in self
+    each do |i|
       result << i if yield(i)
     end
     result

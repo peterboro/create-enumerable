@@ -1,4 +1,4 @@
-## Morse Decoder
+## Enumerable
 
 > This is our simple ruby enumerable
 
